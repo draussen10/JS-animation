@@ -1,2 +1,1 @@
-# native-js-animation
-Config files for my GitHub profile.
+# Скролл-анимация на чистом JavaScript
